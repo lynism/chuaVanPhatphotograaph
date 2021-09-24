@@ -256,15 +256,32 @@ p{
 	padding-bottom: 20px;
 }
 .cottren{
-	padding: 0px 0px 30px 50px;
+	padding: 0px 0px 0px 50px;
 }
 .cotphaitren{
-	padding: 55px 50px 30px 30px;
+	padding: 45px 50px 25px 30px;
+}
+.chuthich2cot{
+	float: left;
+	width: 100%;
+	height: 75px;
+	padding-top: 135px;
+}
+.chuthich4cot{
+	float: left;
+	width: 100%;
+	height: 75px;
+	padding-top: 20px;
 }
 .fullcot{
 	float: left;
 	width: 100%;
-	height: 500px;
+	height: 450px;
+}
+.chuthichfullcot{
+	float: left;
+	width: 100%;
+	height: 75px;
 }
 .hoavan-phai{
 	width: 50%;
@@ -337,10 +354,19 @@ p{
 	width: 100%;
 	height: auto;
 }
+.chuthich4cot p{
+	text-align: center;
+}
+.chuthichfullcot p{
+	text-align: center;
+}
 .fullcot img{
 	width: 92.5%;
-	height: 100%;
-	padding: 85px 0px 0px 65px;
+	height: 95%;
+	padding: 0px 0px 0px 65px;
+}
+.chuthich2cot p{
+	text-align: center;
 }
 /* section 3 */
 .section3{
